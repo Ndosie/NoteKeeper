@@ -35,7 +35,6 @@ public class DataManagerTest {
         assertEquals(course, compareNote.getCourse());
         assertEquals(noteTitle, compareNote.getTitle());
         assertEquals(noteText, compareNote.getText());
-
     }
 
     @Test
